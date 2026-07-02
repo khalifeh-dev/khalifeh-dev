@@ -1,9 +1,7 @@
+<h2 align="center">Hello Everyone, I'm Amir Mohammad 🫠</h2>
+<!-- <h1 style="text-align: center;">Hello Everyone, I'm <span style="color: #3fe0e0;font-weight: bold;">Amir Mohammad</span></h1> -->
+<h1 align="center">Welcome to my GitHub universe! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3d3aDRsZ2N6enByaWw2b2hiYm5kMmJidjd4MG93OG5sd3l1dXg4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IcJ6n6VJNjRNS/giphy.gif" width="48px" height="48px" /></h1>
 <br />
-<h1 style="text-align: center;">Hello Everyone, I'm <span style="color: #3fe0e0;font-weight: bold;">Amir Mohammad</span></h1>
-<h2 style="text-align: center;border-bottom: none; text-decoration: none;font-size: 3rem;">Welcome to my GitHub universe! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3d3aDRsZ2N6enByaWw2b2hiYm5kMmJidjd4MG93OG5sd3l1dXg4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IcJ6n6VJNjRNS/giphy.gif" width="48px" height="48px" /></h2>
-<br />
-
-<div style="display: flex;justify-content: center;gap: 2rem;width: 100%;">
 
 ```json
 {
@@ -24,14 +22,8 @@
   }
 }
 ```
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3QxbjhzeGY5ejhwNXZyYjJ6amhvcWY3OWNpdHB1eXpvYXQya3g2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4ztZcdm9Fi90vL4Zd/giphy.gif" style="width: 30%;height: 25rem;" />
-</div>
-
 <br />
-<span style="display: block;font-size: 2rem;">💫 About Me</span>
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=khalifeh-dev&label=Profile%20Views&labelColor=%231A1A1A&countColor=%23FFD700)
-
+<h3>💫 About Me:</h3>
 <ul>
   <li style="font-size: 1.5rem;">🚅 I started my life journey with JavaScript.</li>
   <li style="font-size: 1.5rem;">😇 I show my creativity with the Front-End & my logic with the Back-End.</li>
@@ -39,5 +31,136 @@
   <li style="font-size: 1.5rem;">🫠 I want to put my whole life aside & just code.</li>
 </ul>
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=khalifeh-dev&label=Profile%20Views&labelColor=%231A1A1A&countColor=%23FFD700)
+
 <br />
-<span style="display: block;font-size: 2rem;">🌐 My Social's</span>
+
+
+
+<h3 align="center">🌐 Follow Me On:</h3>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://instagram.com/khalifeh.dev">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=instagram&size=48" alt="Instagram" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/test">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=48" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://reddit.com/khalifeh-dev">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=reddit&size=48" alt="Reddit" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://t.me/@khalifeh_dev">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=telegram&size=48" alt="Telegram" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/@khalifeh_dev">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=x&color=%23ffffff" alt="X" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<h3 align="center">Languages & Tools I Have Placed My Hands On:</h3>
+
+<div align="center">
+
+<a href="https://test.com">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=html5&size=32" alt="html5" />
+</a>
+
+<a href="https://test.com">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=css3&size=32" alt="css3" />
+</a>
+
+<a href="https://test.com">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=tailwindcss&size=32" alt="tailwindcss" />
+</a>
+
+<a href="https://test.com">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=mui&size=32" alt="MUI" />
+</a>
+
+<a href="https://test.com">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=javascript&size=32" alt="javascript" />
+</a>
+
+<a href="https://test.com">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=typescript&size=32" alt="typescript" />
+</a>
+
+<a href="https://test.com">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=react&size=32" alt="typescript" />
+</a>
+
+<a href="https://test.com">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=redux&size=32" alt="Redux" />
+</a>
+
+<a href="https://test.com">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=nextjs&size=32&color=%23ffffff" alt="nextjs" />
+</a>
+
+<a href="https://test.com">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=nodejs&size=32" alt="NodeJs" />
+</a>
+
+<a href="https://test.com">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=express&size=32&color=%23ffffff" alt="Express" />
+</a>
+
+<a href="https://test.com">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=nestjs&size=32" alt="NestJs" />
+</a>
+
+<a href="https://test.com">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=postgresql&size=32" alt="PostgreSQL" />
+</a>
+
+<a href="https://test.com">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=mysql&size=32" alt="MySQL" />
+</a>
+
+<a href="https://test.com">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=mongodb&size=32" alt="MongoDB" />
+</a>
+
+<a href="https://test.com">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=redis&size=32" alt="Redis" />
+</a>
+
+<a href="https://test.com">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=jest&size=32" alt="Jest" />
+</a>
+
+<a href="https://test.com">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=git&size=32" alt="Git" />
+</a>
+
+<a href="https://test.com">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=docker&size=32" alt="Docker" />
+</a>
+
+<a href="https://test.com">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=linux&size=32" alt="Linux" />
+</a>
+
+<a href="https://test.com">
+  <img src="https://www.readmecodegen.com/api/social-icon?name=archlinux&size=32" alt="Arch-Linux" />
+</a>
+  
+</div>
+
+
+
+
